@@ -1,0 +1,27 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+.contenedor{
+    font-size: 70px;
+justify-content:space-around;
+}
+.facebook{
+    color: rgb(11, 8, 227);
+}
+.ws{
+    color: rgb(4, 164, 18);
+}
+.ig{
+    color: rgb(236, 20, 203);
+}
+.buy{
+    color: rgb(0, 0, 0);
+}
+.contenedor a:hover{
+    transform: scale(1.4);
+    color: rgb(252, 8, 8);
+    
+}
